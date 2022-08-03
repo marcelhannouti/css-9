@@ -1,0 +1,25 @@
+div{
+border-top-style: dotted ;
+border-top-color:red ;
+border-top-width: medium;
+
+border-right-color:rebeccapurple ;
+border-right-style:double ;
+border-right-width: medium ;
+
+border-left-color:yellow ;
+border-left-style:dashed ;
+border-left-width: medium ;
+
+border-bottom-color:green ;
+border-bottom-style:solid ;
+border-bottom-width: medium ;
+width: 800px;
+}
+
+h1{
+    text-align: center;
+}
+pre{
+    text-align: center;
+}
